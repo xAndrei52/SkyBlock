@@ -15,7 +15,7 @@
   "JOIN_DESCRIPTION": "Teleports you to your island",
   "MUST_BE_LEADER": "{RED}You must be a leader to do this!",
   "MUST_BE_FOUNDER": "{RED}You must be the founder to do this!",
-  "MUST_BE_OFFICER": "{RRD}You must be a officer to do this!",
+  "MUST_BE_OFFICER": "{RED}You must be a officer to do this!",
   "LOCK_USAGE": "Usage: /is lock",
   "LOCK_DESCRIPTION": "Lock or unlock your island. If your island is locked, nobody other than the members will be able to visit it.",
   "ISLAND_LOCKED": "{AQUA}You successfully locked your island!",
